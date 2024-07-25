@@ -131,6 +131,9 @@
 // 3. Now after we run the command our go application module file will be created and then we can simply build our application using the following command - "go build"
 // 4. After our application is build, a [module_name].exe file will be created which we can simple run as a application by executing "./module_name" the command
 
+// OR
+// 1. We can also run a single file using the command  => go run filename.go
+
 // ---------------------------------
 // => G. Variables -
 
