@@ -107,7 +107,7 @@
 // 	print("What is your name");
 // 	reader := bufio.NewReader(os.Stdin);
 
-// 	// name, _ := reader.ReadString('\n');
+//  name, _ := reader.ReadString('\n');
 // 	name, err := reader.ReadString('\n');
 // 	if err == nil {
 // 		print("Hello ", name)
